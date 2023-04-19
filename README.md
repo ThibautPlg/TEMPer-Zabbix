@@ -2,7 +2,7 @@
 
 Zabbix template and script to monitor temperatures returned by a TEMPer usb stick. This could be useful to check datacenter temperature or as a remote thermometer plugged to a raspberry pi.
 
-## Requirement
+## Requirement
 - A TEMPer usb stick
 - urwen's temper.py script : https://github.com/urwen/temper
 - jq
